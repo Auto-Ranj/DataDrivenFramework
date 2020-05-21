@@ -29,7 +29,7 @@ import com.relevantcodes.extentreports.LogStatus;
 
 public class TestBase {
 
-	/*
+	/*////
 	 * Webdriver
 	 * loading properties files
 	 * logs-log4j.properties, logger class
